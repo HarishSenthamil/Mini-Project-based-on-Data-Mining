@@ -1,0 +1,1 @@
+It is bascially to identify the young people who all are facing risk while using social media.For that we are using CHAID Algorithm to display the risks.And also we are using various Machine Learning algorithm to comparing all
